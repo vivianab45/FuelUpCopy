@@ -1,0 +1,15 @@
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/bin/Debug/net6.0/FuelUpCopy
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/bin/Debug/net6.0/FuelUpCopy.deps.json
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/bin/Debug/net6.0/FuelUpCopy.runtimeconfig.json
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/bin/Debug/net6.0/FuelUpCopy.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/bin/Debug/net6.0/FuelUpCopy.pdb
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/obj/Debug/net6.0/FuelUpCopy.csproj.AssemblyReference.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/obj/Debug/net6.0/FuelUpCopy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/obj/Debug/net6.0/FuelUpCopy.AssemblyInfoInputs.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/obj/Debug/net6.0/FuelUpCopy.AssemblyInfo.cs
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/obj/Debug/net6.0/FuelUpCopy.csproj.CoreCompileInputs.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/obj/Debug/net6.0/FuelUpCopy.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/obj/Debug/net6.0/refint/FuelUpCopy.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/obj/Debug/net6.0/FuelUpCopy.pdb
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/obj/Debug/net6.0/FuelUpCopy.genruntimeconfig.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/FuelUpCopy/obj/Debug/net6.0/ref/FuelUpCopy.dll
